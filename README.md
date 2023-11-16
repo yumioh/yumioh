@@ -25,6 +25,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 </div>
 
-<div align="center>
+<div align=center>
 <img width="200px;" src="https://github.com/yumioh/yumioh/blob/main/DaMEIWvU8AEDncH.jpg?raw=true"/>
 </div>
