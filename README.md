@@ -8,9 +8,22 @@
  - 
 
 ### Skills
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=007396"/>
+
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=3776AB"/>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=F80000"/>
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=4479A1"/>
+
+
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=6DB33F"/>
+
+
 
 
 <div align=center>
+
+
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) 
@@ -20,6 +33,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 </div>
 
-<div align=center>
-<img width="200px;" src="https://github.com/yumioh/yumioh/blob/main/DaMEIWvU8AEDncH.jpg?raw=true"/>
-</div>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumioh&hide_progress=true&theme=slateorange)
