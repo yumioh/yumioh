@@ -1,8 +1,8 @@
 
-### Machine Learning Engineer, Engineering Manager
-- Machine Learing Engineer, Engineering Manager
-- I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
-- [PM을 위한 데이터 리터러시](https://inf.run/MXw2) 강의를 인프런에 냈습니다!
+### 
+
+### Hello 🥰
+ - Data Analysis에 관심이 많습니다
 
 ### Interest
 - MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
