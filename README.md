@@ -4,6 +4,12 @@
 </div>
 <h3 align="center"> 🥰 Hello 🥰 </h3>
 
+#### Data Anaylsis / Backend Developer
+- 저는 현재 데이터 분석가가 되기 위해 모델링과 Python 공부를 하고 있는 중입니다
+- 핀테크 데이터 분석가 과정 수료 (2023.09.01 ~ 2023.12.01)
+
+<br>
+
 # ✍ Skills 
 <br>
 <p align="center"> 
