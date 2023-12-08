@@ -14,7 +14,7 @@
 <br>
 <div align="right">
  
-![Tech Blog Badge](https://img.shields.io/badge/Blog-2D8C3C?style=flat-square&logo=blogger&logoColor=white&link=https://blog.naver.com/yooms_13)
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-2D8C3C?style=flat-square&logo=blogger&logoColor=white&link=https://blog.naver.com/yooms_13)](https://blog.naver.com/yooms_13)
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yumi-oh-24425b135/)
 </div>
 
