@@ -12,6 +12,11 @@
 - 알리넥스트 창업(예비창업패키지, BNK랩 선정, 서울시여성창업아이디어대회 창의상 수상 등)
 
 <br>
+<div align="right">
+ 
+![Tech Blog Badge](https://img.shields.io/badge/Blog-2D8C3C?style=flat-square&logo=blogger&logoColor=white&link=https://blog.naver.com/yooms_13)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yumi-oh-24425b135/)
+</div>
 
 # ✍ Skills 
 <br>
