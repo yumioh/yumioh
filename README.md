@@ -45,7 +45,7 @@
 <br>
 <div align=center>
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumioh&hide_progress=true&theme=slateorange"/> &nbsp;&nbsp;
-<img height=150 src="https://streak-stats.demolab.com?user=yumoh&theme=gruvbox&date_format=%5BY%20%5DM%20j&mode=weekly&exclude_days=Sun%2CSat"/> 
+<img height=150 src="https://streak-stats.demolab.com?user=yumioh&theme=gruvbox&date_format=%5BY%20%5DM%20j&mode=weekly&exclude_days=Sun%2CSat"/> 
 </div>
 <br>
 <br>
