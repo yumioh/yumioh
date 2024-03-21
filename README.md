@@ -28,6 +28,8 @@
  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black&style=flat"/> &nbsp 
  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat"/> &nbsp 
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=flat"/> &nbsp 
+ <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=linux&logoColor=black&style=flat"/> &nbsp
+ 
 </p>
 
 <br>
