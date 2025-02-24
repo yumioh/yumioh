@@ -20,7 +20,7 @@
 <div align="right">
  
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/yoom13/YOOM-S-Home-ab04704dd4474d608df571b776cb2c8b)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yumi-oh-24425b135/](https://www.notion.so/yoom13/YOOM-S-Home-ab04704dd4474d608df571b776cb2c8b?pvs=4))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.notion.so/yoom13/YOOM-S-Home-ab04704dd4474d608df571b776cb2c8b?pvs=4)
 
 </div>
 
