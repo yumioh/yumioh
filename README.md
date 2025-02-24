@@ -45,7 +45,6 @@
  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white&style=flat"/> &nbsp
  <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white&style=flat"/> &nbsp
  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&style=flat"/> &nbsp
- <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&style=flat"/> &nbsp
  <img src ="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&style=flat"/> &nbsp
 </p>
 
